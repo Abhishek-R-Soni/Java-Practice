@@ -1,0 +1,10 @@
+system.out.format("%.3f",f); -> used to format the fractional output
+
+
+Student s = new Student;
+Class c = s.getClass(); -> will give you class name
+
+there is no sizeof operator in java
+
+JIT is responsible for optimize bytecode to machine Code
+
